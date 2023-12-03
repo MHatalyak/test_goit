@@ -4,7 +4,7 @@ import { HeaderContainer, Logo, Navigation } from 'styles/App.styled';
 const Header = () => {
   return (
     <HeaderContainer>
-      <Logo>Your App</Logo>
+      <Logo>Car Finder</Logo>
       <Navigation>
         <ul>
           <li>
