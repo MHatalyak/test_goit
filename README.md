@@ -23,7 +23,7 @@ Car Rental App дозволяє користувачам переглядати 
 git clone https://github.com/yourusername/car-rental-app.git
 cd car-rental-app
 npm install
-
+```
 ## Використання
 Запустіть додаток за допомогою команди:
 
