@@ -1,0 +1,11 @@
+export const advertsSelector = state => state.adverts.adverts;
+export const isLoadingSelector = state => state.adverts.isLoading;
+export const errorSelector = state => state.adverts.error;
+export const makeSelector = state => state.adverts.filter.make;
+export const priceSelector = state => state.adverts.filter.price;
+export const makeOptionsSelector = state => state.adverts.filter.makeOptions;
+export const priceOptionsSelector = state => state.adverts.filter.priceOptions;
+export const mileageFromSelector = state => state.adverts.filter.mileageFrom;
+export const mileageToSelector = state => state.adverts.filter.mileageTo;
+export const favoriteSelector = state => state.adverts.favorites;
+export const modalSelector = state => state.adverts.modal;
